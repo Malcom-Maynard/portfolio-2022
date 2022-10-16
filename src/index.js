@@ -9,9 +9,9 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 // Rendering app so it can use roots 
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
     <App />
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>
 );
 
