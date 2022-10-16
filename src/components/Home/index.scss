@@ -41,10 +41,13 @@
       }
   
       img {
-        margin-left: 20px;
+        position: absolute;
         opacity: 0;
-        width: 32px;
+        width: 50%;
         height: auto;
+        top: calc((100% - 350px) / 2);;
+        left: calc((100% - -950px) / 2);
+        
         animation: rotateIn 1s linear both;
         animation-delay: 1.4s;
       }

@@ -15,12 +15,14 @@ const Home =() =>{
         <div className="container home-page">
 
             <div className="text-zone">
-            <h1> Hi, <br /> I'm  
+            <h1> Hi, my name is
             
             <AnimatedLetters letterClass={letterClass}  strArray={nameArray} idx={15}/>
-           
+            <img
+              src={require("../../assets/images/LogoFullszie.png")}
+            />
             <br /> 
-            Hello my name is Amari.
+            
             A recent Graduate looking for new and exciting employment opportunities
             </h1>
             
@@ -29,7 +31,7 @@ const Home =() =>{
             
 
             </div>
-            <Logo />
+            
         </div>
         <Loader type="pacman" />
         </>

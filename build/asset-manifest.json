@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.02da6505.css",
-    "main.js": "/static/js/main.9baa5cd8.js",
-    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
-    "static/media/Amari-1.png": "/static/media/Amari-1.08d7eba9cc637377fe63.png",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/index.html",
-    "main.02da6505.css.map": "/static/css/main.02da6505.css.map",
-    "main.9baa5cd8.js.map": "/static/js/main.9baa5cd8.js.map",
-    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/portfolio-2022/static/css/main.64f244a0.css",
+    "main.js": "/portfolio-2022/static/js/main.97540bb5.js",
+    "static/js/787.a2cb61a6.chunk.js": "/portfolio-2022/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Amari-1.png": "/portfolio-2022/static/media/Amari-1.08d7eba9cc637377fe63.png",
+    "static/media/LogoFullszie.png": "/portfolio-2022/static/media/LogoFullszie.a6728dc005439e65a615.png",
+    "static/media/helvetica-neu.ttf": "/portfolio-2022/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/portfolio-2022/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/portfolio-2022/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/portfolio-2022/index.html",
+    "main.64f244a0.css.map": "/portfolio-2022/static/css/main.64f244a0.css.map",
+    "main.97540bb5.js.map": "/portfolio-2022/static/js/main.97540bb5.js.map",
+    "787.a2cb61a6.chunk.js.map": "/portfolio-2022/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02da6505.css",
-    "static/js/main.9baa5cd8.js"
+    "static/css/main.64f244a0.css",
+    "static/js/main.97540bb5.js"
   ]
 }
